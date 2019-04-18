@@ -1,0 +1,21 @@
+{
+  "name": "studentnft",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "coverage": "./node_modules/.bin/solidity-coverage",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sabine Bertram",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.2.0"
+  },
+  "devDependencies": {
+    "solidity-coverage": "^0.5.11"
+  }
+}
