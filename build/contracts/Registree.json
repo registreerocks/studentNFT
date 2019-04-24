@@ -5410,12 +5410,12 @@
         }
       },
       "links": {},
-      "address": "0xb04625C7eF91Ce8016074E8D7D3cf84acf06c355",
-      "transactionHash": "0xac9ef2d129dab2e33325587463f14dcbbf5f3d02b060b127b6b51244e157eb2f"
+      "address": "0xA443aC89F50E4548037B8Bf82cc33f281EFB5143",
+      "transactionHash": "0x9260445f860732063bed53e139eafae97fe83986307c7382d30d1da1187e66db"
     }
   },
   "schemaVersion": "3.0.6",
-  "updatedAt": "2019-04-18T08:37:56.689Z",
+  "updatedAt": "2019-04-24T09:05:19.215Z",
   "devdoc": {
     "methods": {
       "isOwner()": {
