@@ -71,8 +71,8 @@ module.exports = {
     rinkeby: {
       provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/${infuraKey}`),
       network_id: 4,
-      gas: 5500000,           // Gas sent with each transaction (default: ~6700000)
-      gasPrice: 20000000000,  // 20 gwei (in wei) (default: 100 gwei)
+      gas: 6500000, // default = 4712388
+      gasPrice: 10000000000 // default = 100 gwei = 100000000000
     }
 
     // Useful for private networks
